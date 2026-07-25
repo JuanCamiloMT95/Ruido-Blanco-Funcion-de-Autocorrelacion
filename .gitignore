@@ -1,0 +1,20 @@
+# Entorno Virtual
+.venv/
+
+# Archivos temporales de Python (Caché)
+__pycache__/
+*.py[cod]
+
+# Config. local de VS Code
+.vscode/
+
+# Archivos del sistema (Sistemas Operativos)
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
